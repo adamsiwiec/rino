@@ -9,6 +9,6 @@
   "dependencies": {
     "got": "^6.7.1",
     "pretty-bytes": "^4.0.2",
-    "psi": "^2.0.4",
+    "psi": "^2.0.4"
   }
 }
