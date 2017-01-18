@@ -1,8 +1,8 @@
 {
   "name": "rino",
   "version": "0.0.2",
-  "description": "Test the performance of your website ",
-  "main": "index.js",
+  "description": "Simple and accurate website load testing and statistics",
+  "main": "rino.js",
   "repository": "github.com/adamsiwiec/rino",
   "author": "Adam Siwiec",
   "license": "MIT",

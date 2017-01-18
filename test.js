@@ -1,6 +1,6 @@
 var rino = require('./rino');
 
-rino("siwiec.us", 1)
+rino("siwiec.us", 100)
 
 // or
 
