@@ -1,7 +1,7 @@
 {
   "name": "rino",
   "version": "0.0.2",
-  "description": "Simple and accurate website load testing and statistics",
+  "description": "Simple and accurate website load testing and analysis",
   "main": "rino.js",
   "repository": "github.com/adamsiwiec/rino",
   "author": "Adam Siwiec",

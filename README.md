@@ -1,10 +1,14 @@
 # rino
 
-Simple and accurate website load testing and statistics
+[![npm](https://img.shields.io/npm/dt/rino.svg)](npmjs.com/package/rino)
+[![npm](https://img.shields.io/npm/v/rino.svg)](npmjs.com/package/rino)
+[![npm](https://img.shields.io/npm/l/rino.svg)]()
+
+Simple and accurate website load testing and analysis
 
 ## Installation
 
-    `npm install --save rino`
+    npm install --save rino
 
 ## Usage
 
