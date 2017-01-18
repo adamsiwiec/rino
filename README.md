@@ -1,7 +1,7 @@
 # rino
 
-[![npm](https://img.shields.io/npm/dt/rino.svg)](npmjs.com/package/rino)
-[![npm](https://img.shields.io/npm/v/rino.svg)](npmjs.com/package/rino)
+[![npm](https://img.shields.io/npm/dt/rino.svg)](https://npmjs.com/package/rino)
+[![npm](https://img.shields.io/npm/v/rino.svg)](http://npmjs.com/package/rino)
 [![npm](https://img.shields.io/npm/l/rino.svg)]()
 
 Simple and accurate website load testing and analysis
