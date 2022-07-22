@@ -104,8 +104,7 @@ I wanted some solid, consistent data from some of the websites so I could compar
 
 ## Credits
 
- psi, for website analytics
-
+- Adam Siwiec - [Website](https://siwiec.us)
 
 ## Todo:
 
